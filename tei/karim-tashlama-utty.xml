@@ -36,31 +36,31 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person sex="MALE" xml:id="prometej">
+					<person sex="MALE" xml:id="prometej" ana="https://www.wikidata.org/wiki/Q83160">
 						<persName>Прометей</persName>
 					</person>
-					<person sex="MALE" xml:id="zevs">
+					<person sex="MALE" xml:id="zevs" ana="https://www.wikidata.org/wiki/Q34201">
 						<persName>Зевс</persName>
 					</person>
-					<person sex="FEMALE" xml:id="gera">
+					<person sex="FEMALE" xml:id="gera" ana="https://www.wikidata.org/wiki/Q38012">
 						<persName>Гера</persName>
 					</person>
-					<person sex="MALE" xml:id="gefest">
+					<person sex="MALE" xml:id="gefest" ana="https://www.wikidata.org/wiki/Q44384">
 						<persName>Гефест</persName>
 					</person>
-					<person sex="MALE" xml:id="germes">
+					<person sex="MALE" xml:id="germes" ana="https://www.wikidata.org/wiki/Q41484">
 						<persName>Гермес</persName>
 					</person>
-					<person sex="MALE" xml:id="dionis">
+					<person sex="MALE" xml:id="dionis" ana="https://www.wikidata.org/wiki/Q41680">
 						<persName>Дионис</persName>
 					</person>
-					<person sex="FEMALE" xml:id="erida">
+					<person sex="FEMALE" xml:id="erida" ana="https://www.wikidata.org/wiki/Q140001">
 						<persName>Эрида</persName>
 					</person>
-					<person sex="MALE" xml:id="erot">
+					<person sex="MALE" xml:id="erot" ana="https://www.wikidata.org/wiki/Q121973">
 						<persName>Эрот</persName>
 					</person>
-					<person sex="FEMALE" xml:id="afrodita">
+					<person sex="FEMALE" xml:id="afrodita" ana="https://www.wikidata.org/wiki/Q35500">
 						<persName>Афродита</persName>
 					</person>
 					<person sex="MALE" xml:id="allalar">
@@ -69,7 +69,7 @@
 					<person sex="FEMALE" xml:id="agazija">
 						<persName>Агазия</persName>
 					</person>
-					<person sex="FEMALE" xml:id="femida">
+					<person sex="FEMALE" xml:id="femida" ana="https://www.wikidata.org/wiki/Q159168">
 						<persName>Фемида</persName>
 					</person>
 					<person sex="MALE" xml:id="keshelar">
@@ -120,7 +120,7 @@
 					<person sex="MALE" xml:id="adhamshah">
 						<persName>Әҙәмшаһ</persName>
 					</person>
-					<person sex="FEMALE" xml:id="mojralar">
+					<person sex="FEMALE" xml:id="mojralar" ana="https://www.wikidata.org/wiki/Q180287">
 						<persName>Мойралар</persName>
 					</person>
 					<person sex="MALE" xml:id="jash_alla">
