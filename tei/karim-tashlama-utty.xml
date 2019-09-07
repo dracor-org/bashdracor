@@ -111,7 +111,7 @@
 					<person sex="MALE" xml:id="bishense_keshe">
 						<persName>Бишенсе кеше</persName>
 					</person>
-					<person sex="FEMALE" xml:id="vlast">
+					<person sex="FEMALE" xml:id="vlast" ana="https://www.wikidata.org/wiki/Q334447">
 						<persName>Власть</persName>
 					</person>
 					<person sex="MALE" xml:id="kos">
