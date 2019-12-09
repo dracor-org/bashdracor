@@ -63,18 +63,18 @@
 					<person sex="FEMALE" xml:id="afrodita" ana="https://www.wikidata.org/wiki/Q35500">
 						<persName>Афродита</persName>
 					</person>
-					<person sex="MALE" xml:id="allalar">
-						<persName>Аллалар</persName>
-					</person>
+                    <personGrp xml:id="allalar" sex="UNKNOWN">
+						<name>Аллалар</name>
+					</personGrp>
 					<person sex="FEMALE" xml:id="agazija">
 						<persName>Агазия</persName>
 					</person>
 					<person sex="FEMALE" xml:id="femida" ana="https://www.wikidata.org/wiki/Q159168">
 						<persName>Фемида</persName>
 					</person>
-					<person sex="MALE" xml:id="keshelar">
-						<persName>Кешеләр</persName>
-					</person>
+                    <personGrp xml:id="keshelar" sex="UNKNOWN">
+						<name>Кешеләр</name>
+					</personGrp>
 					<person sex="MALE" xml:id="ir">
 						<persName>Ир</persName>
 					</person>
@@ -120,21 +120,24 @@
 					<person sex="MALE" xml:id="adhamshah">
 						<persName>Әҙәмшаһ</persName>
 					</person>
-					<person sex="FEMALE" xml:id="mojralar" ana="https://www.wikidata.org/wiki/Q180287">
-						<persName>Мойралар</persName>
-					</person>
+                    <personGrp xml:id="mojralar" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q180287">
+						<name>Мойралар</name>
+					</personGrp>
 					<person sex="MALE" xml:id="jash_alla">
 						<persName>Йәш алла</persName>
 					</person>
-					<person sex="MALE" xml:id="jash_allalar">
-						<persName>Йәш аллалар</persName>
-					</person>
+                    <personGrp xml:id="jash_allalar" sex="MALE">
+						<name>Йәш аллалар</name>
+					</personGrp>
 					<person sex="FEMALE" xml:id="nishana">
 						<persName>Нишана</persName>
 					</person>
 					<person sex="MALE" xml:id="tauyshtar">
 						<persName>Тауыштар</persName>
 					</person>
+                    <personGrp xml:id="tauyshtar" sex="MALE">
+						<name>Тауыштар</name>
+					</personGrp>
 				</listPerson>
 			</particDesc>
 			<textClass>
