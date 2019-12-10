@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xml:lang="ba" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:lang="bak" xmlns="http://www.tei-c.org/ns/1.0">
 	   
 	<teiHeader>
 		      
@@ -8,13 +8,13 @@
 			         
 			<titleStmt>
 				            
-				<title type="main" xml:lang="ba">Ай тотолған төндә</title>
+				<title type="main" xml:lang="bak">Ай тотолған төндә</title>
 				            
-				<title type="main" xml:lang="ru">В ночь лунного затмения</title>
+				<title type="main" xml:lang="rus">В ночь лунного затмения</title>
 				            
-				<title type="sub" xml:lang="ba">Өс шаршаулы трагедия</title>
+				<title type="sub" xml:lang="bak">Өс шаршаулы трагедия</title>
 				            
-				<title type="sub" xml:lang="ru">Трагедия в трех действиях</title>
+				<title type="sub" xml:lang="rus">Трагедия в трех действиях</title>
 				            
 				<author key="Wikidata:Q2719262">Мостай Кәрим</author>
 				         
