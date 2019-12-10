@@ -16,7 +16,7 @@
 				<availability>
 					<p>Copyright Мостай Кәрим</p>
 				</availability>
-				<idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q64785055</idno>
+				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q64785055</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl type="digitalSource">
@@ -36,31 +36,31 @@
 		<profileDesc>
 			<particDesc>
 				<listPerson>
-					<person sex="MALE" xml:id="prometej" ana="https://www.wikidata.org/entity/Q83160">
+					<person sex="MALE" xml:id="prometej" ana="http://www.wikidata.org/entity/Q83160">
 						<persName>Прометей</persName>
 					</person>
-					<person sex="MALE" xml:id="zevs" ana="https://www.wikidata.org/entity/Q34201">
+					<person sex="MALE" xml:id="zevs" ana="http://www.wikidata.org/entity/Q34201">
 						<persName>Зевс</persName>
 					</person>
-					<person sex="FEMALE" xml:id="gera" ana="https://www.wikidata.org/entity/Q38012">
+					<person sex="FEMALE" xml:id="gera" ana="http://www.wikidata.org/entity/Q38012">
 						<persName>Гера</persName>
 					</person>
-					<person sex="MALE" xml:id="gefest" ana="https://www.wikidata.org/entity/Q44384">
+					<person sex="MALE" xml:id="gefest" ana="http://www.wikidata.org/entity/Q44384">
 						<persName>Гефест</persName>
 					</person>
-					<person sex="MALE" xml:id="germes" ana="https://www.wikidata.org/entity/Q41484">
+					<person sex="MALE" xml:id="germes" ana="http://www.wikidata.org/entity/Q41484">
 						<persName>Гермес</persName>
 					</person>
-					<person sex="MALE" xml:id="dionis" ana="https://www.wikidata.org/entity/Q41680">
+					<person sex="MALE" xml:id="dionis" ana="http://www.wikidata.org/entity/Q41680">
 						<persName>Дионис</persName>
 					</person>
-					<person sex="FEMALE" xml:id="erida" ana="https://www.wikidata.org/entity/Q140001">
+					<person sex="FEMALE" xml:id="erida" ana="http://www.wikidata.org/entity/Q140001">
 						<persName>Эрида</persName>
 					</person>
-					<person sex="MALE" xml:id="erot" ana="https://www.wikidata.org/entity/Q121973">
+					<person sex="MALE" xml:id="erot" ana="http://www.wikidata.org/entity/Q121973">
 						<persName>Эрот</persName>
 					</person>
-					<person sex="FEMALE" xml:id="afrodita" ana="https://www.wikidata.org/entity/Q35500">
+					<person sex="FEMALE" xml:id="afrodita" ana="http://www.wikidata.org/entity/Q35500">
 						<persName>Афродита</persName>
 					</person>
                     <personGrp xml:id="allalar" sex="UNKNOWN">
@@ -69,7 +69,7 @@
 					<person sex="FEMALE" xml:id="agazija">
 						<persName>Агазия</persName>
 					</person>
-					<person sex="FEMALE" xml:id="femida" ana="https://www.wikidata.org/entity/Q159168">
+					<person sex="FEMALE" xml:id="femida" ana="http://www.wikidata.org/entity/Q159168">
 						<persName>Фемида</persName>
 					</person>
                     <personGrp xml:id="keshelar" sex="UNKNOWN">
@@ -111,7 +111,7 @@
 					<person sex="MALE" xml:id="bishense_keshe">
 						<persName>Бишенсе кеше</persName>
 					</person>
-					<person sex="FEMALE" xml:id="vlast" ana="https://www.wikidata.org/entity/Q334447">
+					<person sex="FEMALE" xml:id="vlast" ana="http://www.wikidata.org/entity/Q334447">
 						<persName>Власть</persName>
 					</person>
 					<person sex="MALE" xml:id="kos">
@@ -120,7 +120,7 @@
 					<person sex="MALE" xml:id="adhamshah">
 						<persName>Әҙәмшаһ</persName>
 					</person>
-                    <personGrp xml:id="mojralar" sex="FEMALE" ana="https://www.wikidata.org/entity/Q180287">
+                    <personGrp xml:id="mojralar" sex="FEMALE" ana="http://www.wikidata.org/entity/Q180287">
 						<name>Мойралар</name>
 					</personGrp>
 					<person sex="MALE" xml:id="jash_alla">
