@@ -5,10 +5,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main" xml:lang="bak">Ай тотолған төндә</title>
+				<title type="main">Ай тотолған төндә</title>
 				<title type="main" xml:lang="rus">В ночь лунного затмения</title>
-                <title type="main" xml:lang="eng">On the night of the lunar eclipse</title>
-				<title type="sub" xml:lang="bak">Өс шаршаулы трагедия</title>
+				<title type="main" xml:lang="eng">On the Night of the Lunar Eclipse</title>
+				<title type="sub">Өс шаршаулы трагедия</title>
 				<title type="sub" xml:lang="rus">Трагедия в трех действиях</title>
                 <author>
                   <persName type="pseudo">
