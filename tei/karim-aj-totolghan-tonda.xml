@@ -94,6 +94,15 @@
           <person sex="MALE" xml:id="sapqyn">
             <persName>Сапҡын</persName>
           </person>
+          <person sex="MALE" xml:id="kusarbai">
+            <persName>Күсәрбай</persName>
+          </person>
+          <person sex="FEMALE" xml:id="ber_qatyn">
+            <persName>Бер ҡатын</persName>
+          </person>
+            <personGrp xml:id="tauyshtar" sex="UNKNOWN">
+            <name>Тауыштар</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -3471,7 +3480,7 @@
             <speaker>Өсөнсө аҡһаҡал</speaker>
             <p>Ил күрмәгән, ата-баба ишетмәгән хәл был!</p>
           </sp>
-          <sp who="#berau">
+          <sp who="#berense_aqhaqal">
             <speaker>Берәү</speaker>
             <p>Харап булдыҡ, илдән бәрәкәт китте.</p>
           </sp>
@@ -3495,7 +3504,7 @@
             <speaker>Икенсе аҡһаҡал</speaker>
             <p>Өҫтөбөҙгә ажғырып афәт килә!</p>
           </sp>
-          <sp who="#berau">
+          <sp who="#berense_aqhaqal">
             <speaker>Берәү</speaker>
             <p>Бәндәләрҙе үләт сире ҡыра, ырыу бөтә.</p>
           </sp>
@@ -3587,7 +3596,7 @@
           </sp>
           <sp who="#berense_aqhaqal">
             <speaker>Беренсе аҡһаҡал</speaker>
-            <p>Хөкөмөңдө сығар\, Байбисә!</p>
+            <p>Хөкөмөңдө сығар, Байбисә!</p>
           </sp>
           <sp who="#tankabika">
             <speaker>Тәнкәбикә</speaker>
@@ -3623,7 +3632,7 @@
             <speaker>Зөбәржәт</speaker>
             <p>Улай малға тиң һанағас, ыҙаламай ғына йығып һуйығыҙ.</p>
           </sp>
-          <sp who="#berau">
+          <sp who="#berense_aqhaqal">
             <speaker>Берәү</speaker>
             <p>Һуйыу түгел, тотоп аҫыу кәрәк!</p>
           </sp>
