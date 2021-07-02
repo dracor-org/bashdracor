@@ -1,20 +1,41 @@
-<?xml version="1.0" ?>
-<?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xml:lang="bak" xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="bak">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title type="main" xml:lang="bak">Ташлама утты, Прометей!</title>
 				<title type="main" xml:lang="rus">Не бросай огонь, Прометей!</title>
+                <title type="main" xml:lang="eng">Don't throw the fire, Prometheus!</title>
 				<title type="sub" xml:lang="bak">Алты картиналы трагедия</title>
 				<title type="sub" xml:lang="rus">Трагедия в шести картинах</title>
-				<author key="Wikidata:Q2719262">Мостай Кәрим</author>
-			</titleStmt>
+                <author>
+                  <persName type="pseudo">
+                    <forename>Мостай</forename>
+                    <surname>Кәрим</surname>
+                  </persName>
+                  <persName xml:lang="rus">
+                    <forename>Мустай</forename>
+                    <surname>Карим</surname>
+                  </persName>
+                  <persName>
+                  <persName xml:lang="eng">
+                    <forename>Mustai</forename>
+                    <surname>Karim</surname>
+                  </persName>
+                  <persName>
+                    <forename>Мостафа</forename>
+                    <forename type="patronym">Сафа улы</forename>
+                    <surname>Кәримов</surname>
+                  </persName>
+                  <idno type="wikidata">Q2719262</idno>
+                </author>
 			<publicationStmt>
 				<publisher xml:id="dracor">DraCor</publisher>
-				<idno type="dracor" xml:base="https://dracor.org/id/">bash00004</idno>
+				<idno type="dracor" xml:base="https://dracor.org/id/">bash00002</idno>
 				<availability>
-					<p>Copyright Мостай Кәрим</p>
+					<p>Copyright Alfiya Karimova, published on DraCor with permission.</p>
 				</availability>
 				<idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q64785055</idno>
 			</publicationStmt>
@@ -23,7 +44,7 @@
 					               
 					<name>kitaptar.bashkort.org</name>
 					               
-					<idno type="URL">https://kitaptar.bashkort.org/storage/files/%D3%98%D2%AB%D3%99%D1%80%D2%99%D3%99%D1%80.%20III%20%D1%82%D0%BE%D0%BC:%20%D0%BF%D1%8C%D0%B5%D1%81%D0%B0%D0%BB%D0%B0%D1%80,%20%D0%BB%D0%B8%D0%B1%D1%80%D0%B5%D1%82%D1%82%D0%BE.pdf</idno>
+					<idno type="URL">https://kitaptar.bashkort.org/storage/files/Әҫәрҙәр.%20III%20том:%20пьесалар,%20либретто.pdf#page=511</idno>
 					               
 					<bibl type="originalSource">
 						<title>Мостай Кәрим. Әҫәрҙәр. III том: пьесалар, либретто. Өфө: Ки­тап, 2012. 608 бит.</title>
@@ -131,10 +152,6 @@
 					</personGrp>
 					<person sex="FEMALE" xml:id="nishana">
 						<persName>Нишана</persName>
-					</person>
-					<person sex="MALE" xml:id="tauyshtar">
-						<persName>Тауыштар</persName>
-					</person>
                     <personGrp xml:id="tauyshtar" sex="MALE">
 						<name>Тауыштар</name>
 					</personGrp>
@@ -2166,7 +2183,7 @@
 						<lg>
 							<l>Ҡаф тауына ҡара, о, Прометей!</l>
 							<l>Ана, шәйләйһеңме таш ҡаяны?</l>
-							<l>Шул ҡаяла — сынйырланған . алла.</l>
+							<l>Шул ҡаяла — сынйырланған алла.</l>
 							<l>Үҙ язаңды үҙең ҡара, ана!</l>
 							<l>Утыҙ мең йыл дауам итер ғазап.</l>
 							<l>Утыҙ мең йыл... утыҙ мең йыл...</l>
