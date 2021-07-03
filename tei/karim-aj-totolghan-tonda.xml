@@ -100,6 +100,9 @@
           <person sex="FEMALE" xml:id="ber_qatyn">
             <persName>Бер ҡатын</persName>
           </person>
+          <person sex="MALE" xml:id="berau">
+            <persName>Берәү</persName>
+          </person>
             <personGrp xml:id="tauyshtar" sex="UNKNOWN">
             <name>Тауыштар</name>
           </personGrp>
@@ -3632,7 +3635,7 @@
             <speaker>Зөбәржәт</speaker>
             <p>Улай малға тиң һанағас, ыҙаламай ғына йығып һуйығыҙ.</p>
           </sp>
-          <sp who="#berense_aqhaqal">
+          <sp who="#berau">
             <speaker>Берәү</speaker>
             <p>Һуйыу түгел, тотоп аҫыу кәрәк!</p>
           </sp>
