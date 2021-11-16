@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/tei.css"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="bak">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Аҡ билеттәр</title>
+        <title type="main" xml:lang="rus">Белобилетники</title>
+        <title type="main" xml:lang="eng">White-ticketers</title>
+        <title type="sub">Роталар тормошонан</title>
+        <title type="sub" xml:lang="rus">Из ротной жизни</title>
+        <author>
+          <persName xml:lang="rus">
+            <forename>Шагит</forename>
+            <surname>Худайбердин</surname>
+          </persName>
+          <persName xml:lang="eng">
+            <forename>Shagit</forename>
+            <surname>Hudayberdin</surname>
+          </persName>
+          <persName>
+            <forename>Шәһит</forename>
+            <forename type="patronym">Әхмәт улы</forename>
+            <surname>Хоҙайбирҙин</surname>
+          </persName>
+          <idno type="wikidata">Q4502075</idno>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">bash00003</idno>
+        <availability status="free">
+          <p>In the public domain.</p>
+        </availability>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q109591495</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digitalSource">
+          <bibl type="originalSource">
+            <title>Шәһит Хоҙайбирҙин. Һайланма әҫәрҙәр. Өфө: Башҡортостан издательствоһы,
+              1958.</title>
+            <date type="print" when="1917">«Солдат телэге», 1917, № 12, 4 сентября.</date>
+            <date type="written" when="1917"/>
+          </bibl>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person sex="MALE" xml:id="predsedatel">
+            <persName>Рота комитете председателе</persName>
+          </person>
+          <person sex="MALE" xml:id="aqbilet">
+            <persName>Аҡ билет</persName>
+          </person>
+          <person sex="MALE" xml:id="aqbilet2">
+            <persName>Икенсе береһе</persName>
+          </person>
+          <person sex="MALE" xml:id="aqbilet3">
+            <persName>Өсөнсө берәүһе</persName>
+          </person>
+          <person sex="MALE" xml:id="hamit">
+            <persName>Хәмит</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term type="genreTitle"/>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change when="2021-07-28">(bo) digitized from book source</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <docTitle>
+        <titlePart type="main">Аҡ билеттәр</titlePart>
+        <titlePart type="sub">Роталар тормошонан</titlePart>
+      </docTitle>
+    </front>
+    <body>
+      <div type="act">
+        <sp who="#aqbilet">
+          <speaker>Аҡ билет.</speaker>
+          <p>Әссәләмөғәләйкөм, кәмитәт ағай һеҙ булаһығыҙмы?</p>
+        </sp>
+        <sp who="#predsedatel">
+          <speaker>Рота комитете председателе.</speaker>
+          <p>Эйе, мин булам.</p>
+        </sp>
+        <sp who="#aqbilet">
+          <speaker>Аҡ билет.</speaker>
+          <stage>(ҡыҙыл ыштан кеҫәһенән ҙур табаҡҡа һыҙғыланған ҡағыҙҙар сығарып).</stage>
+          <p>Бына, ағай, шуны ҡара әле минең өйҙә балаларым бар һәм бер ярты ер арышым йыйылмай
+            ҡалғайны, шуға ҡайтармаҫһығыҙмы тигәйнем.</p>
+        </sp>
+        <sp who="#predsedatel">
+          <speaker>Председатель.</speaker>
+          <stage>(ҡағыҙҙарын ҡарап ултырғандан һуң).</stage>
+          <p>Ниңә һуң был тиклем һуңға ҡалғас ашлыҡ-япыгыҙҙы йыйып бөтөрмәй килдегеҙ, һеҙгә бит ун
+            бишенә килергә иғлан булған ине.</p>
+        </sp>
+        <sp who="#aqbilet">
+          <speaker>Аҡ билет.</speaker>
+          <p>Шулай ҙа бит һуң, ағай, беҙгә һуң уны әйтмәнеләр.</p>
+        </sp>
+        <sp who="#aqbilet2">
+          <speaker>Был арала икенсеһе.</speaker>
+          <p>Әйткәндәр ине лә шул, минең йәмәғәтем ауырып киткән ине, шунлыҡтан һуңлап кителде.</p>
+        </sp>
+        <sp who="#aqbilet3">
+          <speaker>Өсөнсө берәүһе.</speaker>
+          <stage>(йәнә кеҫәһенән бер ҙур табаҡ ҡағыҙға яҙылған яҙыуҙарын председатель алдына
+            килтереп һалып).</stage>
+          <p>Бына, кәмитәт ағай, минекен ҡара әле, минең берҙән-бер кәзәмде күрше урлап һатҡан да,
+            шуны юллап йөрөй-йөрөй һуңға ҡалып киттем. Етмәһә, йәнә бер башмағым ауырып ҡалғайны.
+            Уныһы үлеп китһә, бик ҙур зыян була инде. Зинһар, үҙ мосолманың әле, шуларҙы ҡарап, бер
+            ун көнгә генә рәхим итеп ҡайтармаҫһығыҙ микән, бына кәмитәттән даставрения килгән
+            инем.</p>
+        </sp>
+        <sp who="#predsedatel">
+          <speaker>Председатель</speaker>
+          <stage>(ҡағыҙҙарын алып, йәнә әй­ләндереп-әйләндереп ҡарай ҙа).</stage>
+          <p>Һуң былар нәмәгә кәрәк, былар бит һеҙҙең ҡасып йөрөгәнегеҙҙе генә күрһәтә торған бер
+            ҡағыҙ. Былар менән һеҙ барыбер ҡайта алмайһығыҙ, сөнки хәҙер отпускы бөтөнләй юҡ.</p>
+        </sp>
+        <sp who="#aqbilet">
+          <speaker>Аҡ билет.</speaker>
+          <p>Һуң нисек теге ротанан ҡайтаралар? Әле бына кисә генә беҙҙең яҡтар ҡайтып киттеләр, ә
+            бында беҙҙе ҡайтармай тоталар.</p>
+        </sp>
+        <sp who="#predsedatel">
+          <speaker>Председатель</speaker>
+          <p>Ҡайһы роталар ҡайттылар?</p>
+        </sp>
+        <sp who="#aqbilet">
+          <speaker>Аҡ билет.</speaker>
+          <p>Ана теге ста гучмуй ротанан.</p>
+        </sp>
+        <sp who="#predsedatel">
+          <speaker>Председатель</speaker>
+          <p>Ха-ха-ха, дурак һин. Сто восьмой тигән рота буламы һуң, полк тиген.</p>
+        </sp>
+        <sp who="#aqbilet">
+          <speaker>Аҡ билет.</speaker>
+          <p>Әллә һуң, уны беҙ белмәгәс, нисек тип әйтәһең.</p>
+        </sp>
+        <sp who="#predsedatel">
+          <speaker>Председатель</speaker>
+          <p>Ҡасан килдең һин ротаға?</p>
+        </sp>
+        <sp who="#aqbilet">
+          <speaker>Аҡ билет.</speaker>
+          <p>Бындамы? Кисә.</p>
+        </sp>
+        <sp who="#predsedatel">
+          <speaker>Председатель</speaker>
+          <p>А... Әле һин кисә килен тә бөгөн ҡайтырга ла йөрөйһөң. Ә бына беҙ һуғыш башынан бирле
+            йөрөйбөҙ ҙә, һаман ҡайтырға уйламайбыҙ ҙа.</p>
+        </sp>
+        <sp who="#aqbilet">
+          <speaker>Аҡ билет.</speaker>
+          <p>һуң шулай ҙа бит, ағай, шулай уҡ беҙҙе ҡайтармаҫтар микән ни? Зинһар, үҙ мосолманың
+            бит, тырышып ҡарағыҙ әле, әжерен бирербеҙ, буш итмәбеҙ.</p>
+        </sp>
+        <sp who="#predsedatel">
+          <speaker>Председатель</speaker>
+          <stage>(тороп).</stage>
+          <p>Юк, юҡ, ағайҙар, зинһар башымды ҡатырмағыҙ, минең башҡа эшем күп, бар, барығыҙ,
+            сығығыҙ.</p>
+        </sp>
+        <stage>Аҡ билеттәр комитет бүлмәһенән сығып, ишек алдына йыйылып, үҙ-ара береһе:</stage>
+        <sp who="#aqbilet">
+          <speaker>Аҡ билет.</speaker>
+          <p>Әллә бәлки бер аҙ төрткәндә ҡайтарыр ине лә бит. Нишләйбеҙ, булмаһа йыйылып бер аҙ ғына
+            төртәйекме икән?</p>
+        </sp>
+        <sp who="#aqbilet2">
+          <speaker>Икенсе береһе.</speaker>
+          <p>Ярай, ярай. Бына бында үҙен генә саҡырып сығараһың да яҡшылап ҡына итеп бирәһең. Бәлки
+            тыңлар, яҡшы егет күренә.</p>
+        </sp>
+        <sp who="#aqbilet">
+          <speaker>Тағы береһе.</speaker>
+          <p>Ярай, ярай... кем, Хәмит ағай, бар һин, саҡырып сығар. Беҙ бында йыя торайыҡ, — тип
+            бөтәһе бергә икенсе этаждан төшкән баҫҡыс аҫтына йыйылалар.</p>
+        </sp>
+        <stage>Был арала Хәмит ағай комитет ишеге төбөнә килеп, ишекте аҙ ғына аса ла, бармағын
+          тығып председателде саҡыра. Председатель ишеккә ҡараһа, был аҡ билеттәрҙең көнөнә ҡырҡ
+          килеп, был тиклем аптыратыуҙарынан ғажиз булып уйланып ултырғанда, ишек ярығынан бер
+          бармаҡтың һелкенеүен күрә.</stage>
+        <sp who="#predsedatel">
+          <speaker>Председатель</speaker>
+          <p>Ни бар, кем ул?</p>
+        </sp>
+        <stage>тип ишеккә барып асып ҡараһа, аҡ билет Хәмит ағайҙы күрә.</stage>
+        <sp who="#hamit">
+          <speaker>Хәмит</speaker>
+          <p>Әйҙә әле. һине бында иптәштәр саҡыра ине.</p>
+        </sp>
+        <sp who="#predsedatel">
+          <speaker>Председатель</speaker>
+          <p>Ни өсөн, ниңә, әллә һуғышалармы?</p>
+        </sp>
+        <stage>тип Хәмит артынан китә. Коридорға сығыу менән баҫҡыс аҫтына йыйылған аҡ билеттәрҙе
+          күрә лә, быларҙың был эштәре беренсе мәртәбә булмағанлыҡтан, бик тиҙ быларҙың уйҙарын
+          һиҙеп, улар янына бармайын­са, тышҡа сығып китә. Ләкин унда ла ҡотола алмай, аҡ билеттәр
+          бының тышҡа сыҡҡанын күргәс тә бөтәһе лә арттан сығып югерәләр вә етеп, председателде
+          әйләндереп алып, «хөкүмәт ҡағыҙҙарын» һуҙа башлайҙар. Председатель аптырап, быларға хәҙер
+          әүәлге замандағы кеүек аҡсаға ғына һатылып эшләүселәр юҡлығын, бәлки бөтә рота халҡы
+          тарафынан ышанылып һайлап ҡуйған кеше эшләгәнен һөйләп бирә. Ләкин былар уны һаман
+          аңламай. үҙҙәренекен даулап, «мөмкин булмаҫмы, рәхим итеп мөмкин булмаҫмы?» тип тороп
+          ҡалалар, председатель кире өйгә кереп китә.</stage>
+      </div>
+    </body>
+  </text>
+</TEI>
