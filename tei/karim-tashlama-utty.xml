@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="bak">
@@ -3629,7 +3629,8 @@
           </sp>
           <sp who="#adhamshah">
             <speaker>Әҙәмшаһ</speaker>
-            <p><stage>(Икеләнеп.)</stage>
+            <p>
+              <stage>(Икеләнеп.)</stage>
                Ул алла бит. Үҙе бер һелтәүҙә беҙҙең бөтәбеҙҙе ҡырып ташлаһа һуң?
             </p>
           </sp>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="bak">
@@ -103,7 +103,7 @@
           <person sex="MALE" xml:id="berau">
             <persName>Берәү</persName>
           </person>
-            <personGrp xml:id="tauyshtar" sex="UNKNOWN">
+          <personGrp xml:id="tauyshtar" sex="UNKNOWN">
             <name>Тауыштар</name>
           </personGrp>
         </listPerson>
@@ -795,7 +795,8 @@
           <sp who="#zobarzhat">
             <speaker>3өбәржәт</speaker>
             <p>Тауышыңдан танып, үҙем эҙләп килер инем һине, Аҡъегет. Таянған таяҡтарым энә ҙурлығы, аяғымдағы итек табандарым япраҡ ҡалынлығы ҡалһа ла, һине эҙләп табыр инем.
-              <stage>(Шаярып, һуҙып һөйләй.)</stage></p>
+              <stage>(Шаярып, һуҙып һөйләй.)</stage>
+            </p>
             <lg>
               <l>Мин Зөбәржәт атлы инем, </l>
               <l>Аҡъегеттең йәре инем, </l>
@@ -3732,7 +3733,8 @@
           <sp who="#daruish">
             <speaker>Дәрүиш</speaker>
             <p>Аҡһаҡалдар, тәҡбир әйтегеҙ.
-              <stage>Халыҡ тәҡбир әйтеп сыға.</stage></p>
+              <stage>Халыҡ тәҡбир әйтеп сыға.</stage>
+            </p>
             <lg>
               <l>Аллаһы әкбәр, аллаһы әкбәр,</l>
               <l>Лә илаһы иллалла, аллаһы әкбәр,</l>
