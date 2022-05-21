@@ -37,7 +37,6 @@
         <availability>
           <p>Copyright Alfiya Karimova, published on DraCor with permission.</p>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q64785055</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digitalSource">
@@ -45,8 +44,6 @@
           <idno type="URL">https://kitaptar.bashkort.org/storage/files/Әҫәрҙәр.%20III%20том:%20пьесалар,%20либретто.pdf#page=511</idno>
           <bibl type="originalSource">
             <title>Мостай Кәрим. Әҫәрҙәр. III том: пьесалар, либретто. Өфө: Ки­тап, 2012. 608 бит.</title>
-            <date type="print" when="1975">«3. II. — 20. III. 1975». «Совет Башҡортостаны»</date>
-            <date type="premiere" when="1977"> БАДТ (1977, 17 март)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -170,6 +167,17 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1975">
+        <desc>«3. II. — 20. III. 1975». «Совет Башҡортостаны»</desc>
+      </event>
+      <event type="premiere" when="1977">
+        <desc> БАДТ (1977, 17 март)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q64785055"/>
+  </standOff>
   <text>
     <front>
       <docTitle>
