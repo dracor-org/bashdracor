@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="bak">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bash00002" xml:lang="bak">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -33,7 +33,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">bash00002</idno>
         <availability>
           <p>Copyright Alfiya Karimova, published on DraCor with permission.</p>
         </availability>
@@ -176,7 +175,9 @@
         <desc> БАДТ (1977, 17 март)</desc>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q64785055"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/bash00002" passive="http://www.wikidata.org/entity/Q64785055"/>
+    </listRelation>
   </standOff>
   <text>
     <front>
