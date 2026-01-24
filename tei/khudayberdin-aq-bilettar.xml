@@ -5,9 +5,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Аҡ билеттәр</title>
-        <title type="main" xml:lang="rus">Белобилетники</title>
-        <title type="main" xml:lang="eng">White-ticketers</title>
+        <title>Аҡ билеттәр</title>
+        <title xml:lang="rus">Белобилетники</title>
+        <title xml:lang="eng">White-ticketers</title>
         <title type="sub">Роталар тормошонан</title>
         <title type="sub" xml:lang="rus">Из ротной жизни</title>
         <author>

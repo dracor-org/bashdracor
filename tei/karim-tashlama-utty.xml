@@ -5,9 +5,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Ташлама утты, Прометей!</title>
-        <title type="main" xml:lang="rus">Не бросай огонь, Прометей!</title>
-        <title type="main" xml:lang="eng">Don't Drop the Fire, Prometheus!</title>
+        <title>Ташлама утты, Прометей!</title>
+        <title xml:lang="rus">Не бросай огонь, Прометей!</title>
+        <title xml:lang="eng">Don't Drop the Fire, Prometheus!</title>
         <title type="sub">Алты картиналы трагедия</title>
         <title type="sub" xml:lang="rus">Трагедия в шести картинах</title>
         <author>
