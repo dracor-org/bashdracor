@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bash00002" xml:lang="bak">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bash00002" xml:lang="ba">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Ташлама утты, Прометей!</title>
-        <title xml:lang="rus">Не бросай огонь, Прометей!</title>
-        <title xml:lang="eng">Don't Drop the Fire, Prometheus!</title>
+        <title xml:lang="ru">Не бросай огонь, Прометей!</title>
+        <title xml:lang="en">Don't Drop the Fire, Prometheus!</title>
         <title type="sub">Алты картиналы трагедия</title>
-        <title type="sub" xml:lang="rus">Трагедия в шести картинах</title>
+        <title type="sub" xml:lang="ru">Трагедия в шести картинах</title>
         <author>
           <persName type="pseudo">
             <forename>Мостай</forename>
             <surname>Кәрим</surname>
           </persName>
-          <persName xml:lang="rus">
+          <persName xml:lang="ru">
             <forename>Мустай</forename>
             <surname>Карим</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Mustai</forename>
             <surname>Karim</surname>
           </persName>

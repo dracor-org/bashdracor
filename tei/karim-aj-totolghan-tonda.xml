@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bash00001" xml:lang="bak">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bash00001" xml:lang="ba">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Ай тотолған төндә</title>
-        <title xml:lang="rus">В ночь лунного затмения</title>
-        <title xml:lang="eng">On the Night of the Lunar Eclipse</title>
+        <title xml:lang="ru">В ночь лунного затмения</title>
+        <title xml:lang="en">On the Night of the Lunar Eclipse</title>
         <title type="sub">Өс шаршаулы трагедия</title>
-        <title type="sub" xml:lang="rus">Трагедия в трех действиях</title>
+        <title type="sub" xml:lang="ru">Трагедия в трех действиях</title>
         <author>
           <persName type="pseudo">
             <forename>Мостай</forename>
             <surname>Кәрим</surname>
           </persName>
-          <persName xml:lang="rus">
+          <persName xml:lang="ru">
             <forename>Мустай</forename>
             <surname>Карим</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Mustai</forename>
             <surname>Karim</surname>
           </persName>

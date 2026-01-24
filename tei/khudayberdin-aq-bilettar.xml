@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei.css"?>
 <?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bash00003" xml:lang="bak">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bash00003" xml:lang="ba">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Аҡ билеттәр</title>
-        <title xml:lang="rus">Белобилетники</title>
-        <title xml:lang="eng">White-ticketers</title>
+        <title xml:lang="ru">Белобилетники</title>
+        <title xml:lang="en">White-ticketers</title>
         <title type="sub">Роталар тормошонан</title>
-        <title type="sub" xml:lang="rus">Из ротной жизни</title>
+        <title type="sub" xml:lang="ru">Из ротной жизни</title>
         <author>
-          <persName xml:lang="rus">
+          <persName xml:lang="ru">
             <forename>Шагит</forename>
             <surname>Худайбердин</surname>
           </persName>
-          <persName xml:lang="eng">
+          <persName xml:lang="en">
             <forename>Shagit</forename>
             <surname>Hudayberdin</surname>
           </persName>
